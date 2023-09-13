@@ -11,7 +11,7 @@
     background-image: url("/images/Poster.jpg");
     background-repeat: no-repeat;
     width: 100%;
-    height: 100vh;
+    height: 90vh;
     color: #ffffff;
     
 }
@@ -62,4 +62,27 @@ padding-top: 1rem;
 .bx-play-circle{
   padding: 3.5px;
   font: 1.5rem;
+}
+
+.footer-icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.bxl-facebook, .bxl-instagram, .bxl-twitter, .bxl-youtube{
+    margin-left: 1rem;
+    margin-top: 5rem;
+}
+
+.footer-para{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-condition, .footer-press, .footer-privacy{
+    margin-left: 1rem;
+
 }
